@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Divyaja Kakarla, currently pursuing my masters in computer science at Texas State University,San Marcos. 
+
 <!--
 **aoc38/aoc38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
