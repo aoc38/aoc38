@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS,TypeScript**
 
-- 💬 Ask me about **Java,React JS,Spring**
+- 💬 Ask me about **Java,React JS,Spring Boot, My SQL**
 
 - 📫 How to reach me **divyaja1405@gmail.com**
 
