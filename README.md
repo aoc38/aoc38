@@ -8,8 +8,10 @@
 - 💬 Ask me about **Java,React JS,Spring Boot, My SQL**
 
 - 📫 How to reach me **divyaja1405@gmail.com**
+-  Check out my leetcode on **https://leetcode.com/divyakakarla93/**
 
 - ⚡ Fun fact **I think I am funny when I dance**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
