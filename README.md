@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyaja Kakarla</h1>
 <h3 align="center">A passionate full stack developer from United States</h3>
 
-- 🔭 I’m currently working on [Travel Maniac](https://github.com/aoc38/Travel)
+<!-- - 🔭 I’m currently working on [Travel Maniac](https://github.com/aoc38/Travel) -->
 
 - 🌱 I’m currently learning **AWS,TypeScript**
 
