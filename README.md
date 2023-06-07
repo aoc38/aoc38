@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java,React JS,Spring Boot, My SQL**
 
-- 📫 How to reach me **divyaja1405@gmail.com**
+- 📫 How to reach me **divyaja1405@gmail.com  | kkldivyaja@gmail.com**
 -  Check out my leetcode on **https://leetcode.com/divyakakarla93/**
 
 - ⚡ Fun fact **I think I am funny when I dance**
