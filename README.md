@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [Travel Maniac](https://github.com/aoc38/Travel) -->
 
-- 🌱 I’m currently learning **AWS,TypeScript**
+- 🌱 I’m currently learning **Spring reactive**
 
 - 💬 Ask me about **Java,React JS,Spring Boot, My SQL**
 
